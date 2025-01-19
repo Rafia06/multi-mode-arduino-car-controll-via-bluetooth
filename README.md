@@ -21,10 +21,10 @@ This involves building a car using an Arduino microcontroller. The car is equipp
 
 ## Car Showcase
 ### Automatic mode
-![auto](https://github.com/Rafia06/image/blob/main/WhatsApp%20Video%202025-01-20%20at%2002.04.20_d0c0da1a.mp4)
+![auto](https://github.com/Rafia06/image/blob/main/Untitled%20design%20(1).gif)
 
 ### Bluetooth control
-![remote](https://github.com/Rafia06/image/blob/main/WhatsApp%20Video%202025-01-20%20at%2002.04.35_284df7bc.mp4)
+![remote](https://github.com/Rafia06/image/blob/main/Untitled%20design.gif)
 
 
 
